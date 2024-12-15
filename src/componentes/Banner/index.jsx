@@ -1,5 +1,8 @@
+import './Banner.css'
+
 function Banner() {
     return (
+        <header className='banner'>
         <div>
             <img 
                 src="/imagens/banner.png" 
@@ -7,6 +10,7 @@ function Banner() {
                 className="banner" 
             />
         </div>
+        </header>
     );
 }
 
