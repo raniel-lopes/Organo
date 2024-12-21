@@ -1,5 +1,5 @@
 import { IoIosCloseCircle } from "react-icons/io";
-import './colaborador.css'
+import './Colaborador.css'
 
 
 const Colaborador = ({ colaborador, corDeFundo, aoDeletar}) => {
